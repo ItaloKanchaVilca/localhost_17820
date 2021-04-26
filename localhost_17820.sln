@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PRUEBA1", "http://localhost:17820", "{261B023F-8037-4221-AA2C-DA11AFB758F0}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_17820"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Documentos\My Web Sites\PRUEBA1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_17820\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_17820"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Documentos\My Web Sites\PRUEBA1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_17820\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\OneDrive\Documentos\My Web Sites\PRUEBA1\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{261B023F-8037-4221-AA2C-DA11AFB758F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261B023F-8037-4221-AA2C-DA11AFB758F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75642A64-AC10-49EA-8FE0-1EFE6E10F078}
+	EndGlobalSection
+EndGlobal
